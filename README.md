@@ -6,6 +6,9 @@ Calculator developed as example from "Curso Completo de JavaScript" by HCode na 
 
 ### Hi there, this is my first JavaScript project, you can try it, it's a responsible calculator. If you want the tab sound, need to click 'AC' twice.
 
+Advices⚠️⚠️⚠️
+- This calculator supports a maximum of 10-digit numbers, if you exceed this amount, will set "Error"
+
 ## Technologies used:
 
 <table>
